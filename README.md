@@ -1,2 +1,2 @@
 # Flappy-Bird-Game
-Flappy Bird Game by Python
+Flappy bird game by Python created by me in 2020
